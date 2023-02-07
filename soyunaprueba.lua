@@ -45,3 +45,15 @@ function conDosTabulaciones()
 				identacion7
 	
 end
+
+function truee()
+  1
+    2
+      3
+  1
+    2
+      3
+  1
+    2 
+      3
+end
