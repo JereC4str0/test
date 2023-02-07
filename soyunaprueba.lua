@@ -34,3 +34,14 @@ function concuatrotabulaciones()
 			hola7
 	
 end
+
+function conDosTabulaciones()
+	identacion1
+		identacion2
+			identacion3
+	identacion4
+		identacion5
+			identacion6
+				identacion7
+	
+end
