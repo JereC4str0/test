@@ -1,7 +1,6 @@
-function Soyunaprueba2()
-	local identacion1
-		local identacion2
-			local identacion3
-				local identacion4
-	
+function Hola()
+	Hola soy una tabulacion
+		Hola soy otra tabulacion
+			hola bla bla bla
+
 end
