@@ -12,3 +12,13 @@ function enfalse()
 			identacion4
 	
 end
+
+function entrue()
+  identacionuno
+  identaciondos
+    identaciontres
+      identacioncuatro
+  identacioncinco
+    identacionseis
+  
+end
