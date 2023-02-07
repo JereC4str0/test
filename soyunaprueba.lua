@@ -1,6 +1,7 @@
-function Hola()
-	Hola soy una tabulacion
-		Hola soy otra tabulacion
-			hola bla bla bla
-
+function holasoyunaprueba()
+ identacion1
+	identacion2
+		identacion3
+			identacion4
+	
 end
